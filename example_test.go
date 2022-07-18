@@ -17,5 +17,7 @@ func Example() {
 	}
 
 	// Print out result
-	fmt.Println(resp.IsEven) // true
+	fmt.Println(resp.IsEven)
+	// Output:
+	// true
 }
